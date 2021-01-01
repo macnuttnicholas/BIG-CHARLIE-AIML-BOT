@@ -9,3 +9,9 @@ RUN SERVER.SH FOR LINUX
 RUN RUN.BAT FOR WINDOWS
 2 GIGS OF MEMORY  REQUIRED
 MYSQL AND JAVA ALSO REQUIRED
+
+JUST DOWNLOAD
+BigAliceLinuxComplete
+Run screen sh server.sh then press ctrl A then D it will run in the background and you can use it at localhost:2001
+
+
